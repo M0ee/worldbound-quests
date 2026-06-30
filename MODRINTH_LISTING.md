@@ -25,6 +25,8 @@ Worldbound Quests turns Minecraft into a shared survival challenge by MoeQuack. 
 
 The mod is made for co-op videos and multiplayer sessions. Quest progress is shared by the server, the quest book shows locked and unlocked objectives, and the HUD tracks the active quest, Minecraft day, current border size, and total expanded area.
 
+Videos and livestreams are allowed without requiring credit or a link. Credit is appreciated, but not required.
+
 ## Features
 
 - 50 day-gated campaign quests from first logs to the Ender Dragon.

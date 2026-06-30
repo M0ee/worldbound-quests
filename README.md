@@ -72,7 +72,7 @@ Death punishments are weighted and temporary. The default wheel includes small b
 
 ## License
 
-Worldbound Quests is owned by MoeQuack and uses a custom source-available license: `LicenseRef-MoeQuack-Source-Available`. You may play it and record/stream gameplay, but you may not reupload, redistribute, sell, publish modified builds, remove credits, or claim the mod as your own without written permission.
+Worldbound Quests is owned by MoeQuack and uses a custom source-available license: `LicenseRef-MoeQuack-Source-Available`. You may play it and record/stream/upload/monetize gameplay without crediting or linking the mod, but you may not reupload, redistribute, sell, publish modified builds, remove credits from the mod files, or claim the mod as your own without written permission.
 
 ## Current Scope
 
