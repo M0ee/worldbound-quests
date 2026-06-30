@@ -5,9 +5,9 @@
   "name": "Worldbound Quests",
   "description": "A shared world-border quest campaign with death punishments for co-op and multiplayer Fabric servers.",
   "authors": [
-    "UncleMoee"
+    "MoeQuack"
   ],
-  "license": "LicenseRef-UncleMoee-Source-Available",
+  "license": "LicenseRef-MoeQuack-Source-Available",
   "icon": "assets/worldbound/icon.png",
   "environment": "*",
   "entrypoints": {

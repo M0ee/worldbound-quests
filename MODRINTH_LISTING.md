@@ -9,7 +9,9 @@
 - Minecraft version: 26.1.2
 - Client side: Required
 - Server side: Required
-- License ID: LicenseRef-UncleMoee-Source-Available
+- Author/owner: MoeQuack
+- In-game name: UncleMoee
+- License ID: LicenseRef-MoeQuack-Source-Available
 - Source URL: https://github.com/M0ee/worldbound-quests
 - License URL: https://github.com/M0ee/worldbound-quests/blob/main/LICENSE
 
@@ -19,7 +21,7 @@ A shared co-op world-border quest campaign with day-gated progression, escalatin
 
 ## Description
 
-Worldbound Quests turns Minecraft into a shared survival challenge. Everyone begins inside a tiny world border, works through a 50-quest campaign, unlocks harder objectives over time, expands the playable area, and risks weighted punishments on death.
+Worldbound Quests turns Minecraft into a shared survival challenge by MoeQuack. Everyone begins inside a tiny world border, works through a 50-quest campaign, unlocks harder objectives over time, expands the playable area, and risks weighted punishments on death.
 
 The mod is made for co-op videos and multiplayer sessions. Quest progress is shared by the server, the quest book shows locked and unlocked objectives, and the HUD tracks the active quest, Minecraft day, current border size, and total expanded area.
 
@@ -47,4 +49,4 @@ The mod is made for co-op videos and multiplayer sessions. Quest progress is sha
 - Shared multiplayer quest state.
 - Quest book UI and HUD.
 - Weighted recording-friendly death punishments.
-- Custom UncleMoee source-available license.
+- Custom MoeQuack source-available license.

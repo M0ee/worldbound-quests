@@ -2,6 +2,8 @@
 
 Worldbound Quests is a Fabric mod for Minecraft Java 26.1.2. It runs a shared co-op campaign where everyone starts inside a tiny world border, completes one day-gated story quest at a time, expands the playable world, and faces a weighted punishment roll on death.
 
+Created by MoeQuack, known in-game as UncleMoee.
+
 ## Requirements
 
 - Minecraft Java 26.1.2
@@ -70,7 +72,7 @@ Death punishments are weighted and temporary. The default wheel includes small b
 
 ## License
 
-Worldbound Quests is owned by UncleMoee and uses a custom source-available license: `LicenseRef-UncleMoee-Source-Available`. You may play it and record/stream gameplay, but you may not reupload, redistribute, sell, publish modified builds, remove credits, or claim the mod as your own without written permission.
+Worldbound Quests is owned by MoeQuack and uses a custom source-available license: `LicenseRef-MoeQuack-Source-Available`. You may play it and record/stream gameplay, but you may not reupload, redistribute, sell, publish modified builds, remove credits, or claim the mod as your own without written permission.
 
 ## Current Scope
 
