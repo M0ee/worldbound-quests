@@ -10,7 +10,8 @@
 - Client side: Required
 - Server side: Required
 - License ID: LicenseRef-UncleMoee-Source-Available
-- License URL: Use the GitHub `LICENSE` file URL after the repository is published.
+- Source URL: https://github.com/M0ee/worldbound-quests
+- License URL: https://github.com/M0ee/worldbound-quests/blob/main/LICENSE
 
 ## Summary
 
