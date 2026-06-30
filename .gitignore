@@ -12,5 +12,18 @@ crash-reports/
 *.iml
 .vscode/
 
+# AI planning / agent workspace notes
 _brain/
+.agents/
+.codex/
 Plan.md
+*Plan.md
+*plan.md
+AGENTS.md
+**/AGENTS.md
+SKILL.md
+**/SKILL.md
+*agent*.md
+*Agent*.md
+*skill*.md
+*Skill*.md
