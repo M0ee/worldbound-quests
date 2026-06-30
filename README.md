@@ -2,7 +2,7 @@
 
 Worldbound Quests is a Fabric mod for Minecraft Java 26.1.2. It runs a shared co-op campaign where everyone starts inside a tiny world border, completes one day-gated story quest at a time, expands the playable world, and faces a weighted punishment roll on death.
 
-Created by MoeQuack, known in-game as UncleMoee.
+Created by MoeQuack, known in-game as UncleMoee. Built with help from AI.
 
 ## Requirements
 
