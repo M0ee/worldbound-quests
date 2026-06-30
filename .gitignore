@@ -1,0 +1,16 @@
+.gradle/
+build/
+run/
+logs/
+crash-reports/
+
+*.log
+*.hprof
+*.class
+
+.idea/
+*.iml
+.vscode/
+
+_brain/
+Plan.md

@@ -1,0 +1,74 @@
+{
+  "punishments": [
+    {
+      "id": "border_shrink_small",
+      "title": "The border tightens",
+      "type": "border_shrink",
+      "weight": 3,
+      "amount": 8
+    },
+    {
+      "id": "border_shrink_medium",
+      "title": "The world pulls inward",
+      "type": "border_shrink",
+      "weight": 1,
+      "amount": 16
+    },
+    {
+      "id": "slowness",
+      "title": "Heavy steps",
+      "type": "effect_slowness",
+      "weight": 4,
+      "durationSeconds": 150
+    },
+    {
+      "id": "mining_fatigue",
+      "title": "Dull tools",
+      "type": "effect_mining_fatigue",
+      "weight": 3,
+      "durationSeconds": 150
+    },
+    {
+      "id": "hunger",
+      "title": "Empty stomachs",
+      "type": "effect_hunger",
+      "weight": 3,
+      "durationSeconds": 90
+    },
+    {
+      "id": "weakness",
+      "title": "Shaken arms",
+      "type": "effect_weakness",
+      "weight": 3,
+      "durationSeconds": 120
+    },
+    {
+      "id": "blindness",
+      "title": "Lost horizon",
+      "type": "effect_blindness",
+      "weight": 2,
+      "durationSeconds": 25
+    },
+    {
+      "id": "darkness",
+      "title": "The world goes quiet",
+      "type": "effect_darkness",
+      "weight": 2,
+      "durationSeconds": 35
+    },
+    {
+      "id": "food_drain",
+      "title": "Rations spoiled",
+      "type": "food_drain",
+      "weight": 2,
+      "amount": 6
+    },
+    {
+      "id": "reward_tax",
+      "title": "The next expansion is reduced",
+      "type": "reward_tax",
+      "weight": 3,
+      "amount": 0.8
+    }
+  ]
+}

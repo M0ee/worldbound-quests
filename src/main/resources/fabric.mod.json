@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "worldbound",
+  "version": "${version}",
+  "name": "Worldbound Quests",
+  "description": "A shared world-border quest campaign with death punishments for co-op and multiplayer Fabric servers.",
+  "authors": [
+    "UncleMoee"
+  ],
+  "license": "LicenseRef-UncleMoee-Source-Available",
+  "icon": "assets/worldbound/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.moe.worldbound.WorldboundMod"
+    ],
+    "client": [
+      "com.moe.worldbound.WorldboundClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "26.1.2",
+    "java": ">=25",
+    "fabric-api": ">=0.150.0+26.1.2"
+  }
+}
